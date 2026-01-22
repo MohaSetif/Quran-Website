@@ -245,7 +245,7 @@ const IslamicAppLanding = () => {
             </div>
 
             <div className="md:text-right">
-              <p className="font-medium text-neutral-400 mb-2">© 2024 Tilawah</p>
+              <p className="font-medium text-neutral-400 mb-2">© 2026 Tilawah</p>
               <p className="text-sm">All rights reserved. Designed with ❤️ for the Ummah.</p>
               <div className="mt-4 flex justify-center md:justify-end space-x-4">
                 <a href="https://github.com" className="w-8 h-8 rounded-full bg-neutral-900 flex items-center justify-center hover:bg-neutral-800 transition-all">
