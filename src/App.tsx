@@ -1,4 +1,4 @@
-import { Menu, X, MapPin, Calendar, Headphones, BookOpen, Users } from 'lucide-react';
+import { Menu, X, MapPin, Calendar, Headphones, BookOpen, Users, Github } from 'lucide-react';
 import logo from './assets/images/QuranEditLogo_withoutBg.png';
 import qrCode from './assets/images/android.png';
 import { useEffect, useState } from 'react';
@@ -248,8 +248,8 @@ const IslamicAppLanding = () => {
               <p className="font-medium text-neutral-400 mb-2">© 2026 Tilawah</p>
               <p className="text-sm">All rights reserved. Designed with ❤️ for the Ummah.</p>
               <div className="mt-4 flex justify-center md:justify-end space-x-4">
-                <a href="https://github.com" className="w-8 h-8 rounded-full bg-neutral-900 flex items-center justify-center hover:bg-neutral-800 transition-all">
-                  <BookOpen className="w-4 h-4" />
+                <a href="https://github.com/MohaSetif" className="w-8 h-8 rounded-full bg-neutral-900 flex items-center justify-center hover:bg-neutral-800 transition-all">
+                  <Github className="w-4 h-4" />
                 </a>
               </div>
             </div>
