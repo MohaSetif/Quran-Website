@@ -241,7 +241,7 @@ const IslamicAppLanding = () => {
             <div className="flex justify-center space-x-8">
               <a href="#features" className="text-white hover:text-amber-500 transition-colors">Features</a>
               <a href="#about" className="text-white hover:text-amber-500 transition-colors">About</a>
-              <a href="mailto:contact@tilawah.app" className="text-white hover:text-amber-500 transition-colors">Contact</a>
+              <a href="mailto:BouroubaMohamed004@gmail.com" className="text-white hover:text-amber-500 transition-colors">Contact</a>
             </div>
 
             <div className="md:text-right">
