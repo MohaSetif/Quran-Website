@@ -192,7 +192,7 @@ const IslamicAppLanding = () => {
                 <h3 className="text-2xl font-bold text-white mb-4">Download Now</h3>
                 <p className="text-white/80 mb-8">Scan this code with your phone camera or use the buttons below to get started instantly.</p>
                 <div className="space-y-4">
-                  <a href='https://drive.google.com/file/d/12N-yOhrOifPdDIP7nk_EAgEa-xH1UmZh/view?usp=drive_link' className="w-full bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-neutral-900 transition-all flex items-center justify-center space-x-3 group active:scale-95">
+                  <a href='https://drive.google.com/file/d/1ral3Z74udEl7_Nbq0hIaCfIfvZUpG_iO/view?usp=sharing' className="w-full bg-black text-white px-8 py-4 rounded-2xl font-bold hover:bg-neutral-900 transition-all flex items-center justify-center space-x-3 group active:scale-95">
                     <span className="text-2xl group-hover:scale-125 transition-transform">🤖</span>
                     <span className="text-lg">Get on Android</span>
                   </a>
